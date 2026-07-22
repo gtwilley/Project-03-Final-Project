@@ -1,0 +1,33 @@
+div {
+    width: 300px;
+    height: 200px;
+    background-color: #b4dff0;
+    border: 3px solid #f0bfbf;
+    padding: 20px;
+    padding-top: 10px;
+    margin: 20px;
+}
+
+body{
+    background-color: #b4dff0;
+    font-family: Garamond, serif;
+    color: #050101;
+    line-height: 1.5;
+    padding: 20px;
+}
+
+h1{
+    color: #000608;
+    text-align: left;
+    font-size: 2.5;
+    margin-bottom: 20px;
+}
+
+h2{
+    color:#000608;
+    text-align: left;
+    font-size: 2.0;
+    margin-bottom: 20px;
+}
+
+
