@@ -1,15 +1,15 @@
 div {
-    width: auto;
+    width: fit-content;
     height: auto;
-    background-color: #b4dff0;
-    border: 3px solid #f0bfbf;
+    background-color: #f1ecca;
+    border: 3px solid #2e146a;
     padding: 20px;
     padding-top: 10px;
     margin: 20px;
 }
 
 body{
-    background-color: #b4dff0;
+    background-color: #f1ecca;
     font-family: Garamond, serif;
     color: #050101;
     line-height: 1.5;
